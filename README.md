@@ -36,7 +36,7 @@ The Docker image contains <this software> as well as a webserver and FTP server 
 
 1. `git clone https://github.com/NCBI-Hackathons/<this software>.git`
 2. Edit the configuration files as below
-3. `sh server/pubrunner.sh` to test
+3. `sh server/<this software>.sh` to test
 4. Add cron job as required (to execute <this software>.sh script)
 
 ### Configuration
