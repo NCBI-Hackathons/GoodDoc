@@ -1,8 +1,10 @@
 # GoodDoc -- A Template for Simple and Clear Documentation of Bioinformatics Code!
 
-## Awesome Logo
+## Please cite our work -- here is the ICMJE Standard Citation:
 
-## Link to DOI
+### ...and a link to the DOI:
+
+## Awesome Logo
 
 ### You can make a free DOI with zenodo <link>
 
