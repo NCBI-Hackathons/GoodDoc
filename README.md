@@ -25,9 +25,9 @@ Overview Diagram
 # Software Workflow Diagram
 
 # File structure diagram 
-## Define paths
+#### _Define paths, variable names, etc
 
-## Installation options:
+# Installation options:
 
 We provide two options for installing <this software>: Docker or directly from Github.
 
