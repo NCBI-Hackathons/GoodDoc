@@ -25,7 +25,7 @@ Overview Diagram
 # Software Workflow Diagram
 
 # File structure diagram 
-#### _Define paths, variable names, etc
+#### _Define paths, variable names, etc_
 
 # Installation options:
 
