@@ -22,6 +22,11 @@ Overview Diagram
 
 # How to use <this software>
 
+# Software Workflow Diagram
+
+# File structure diagram 
+## Define paths
+
 ## Installation options:
 
 We provide two options for installing <this software>: Docker or directly from Github.
